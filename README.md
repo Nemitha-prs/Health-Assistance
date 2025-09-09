@@ -1,4 +1,3 @@
-# Health-Assistance
 # Health Assistant App
 
 A modern and user-friendly desktop application built with Python and the `CustomTkinter` library. This all-in-one health and wellness tool is designed to provide quick and accessible information to help you manage your well-being.
