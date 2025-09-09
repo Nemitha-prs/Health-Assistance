@@ -1,8 +1,8 @@
-#logo setuo
+#logo setup
 
-Download the logo image. Save it to your computer.
+1.Download the logo image. Save it to your computer.
 
-change the LOGO_PATH of the main coding 
+2.change the LOGO_PATH of the main coding 
 
 
 
